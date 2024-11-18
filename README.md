@@ -1,6 +1,6 @@
 # SkyStream - Bluesky Hashtag Tracker
 
-SkyStream is a simple, elegant web application that allows you to track and display posts from Bluesky containing specific hashtags in real-time.
+[SkyStream](https://skystream.nothans.com/) is a simple, elegant web application that allows you to track and display posts from Bluesky containing specific hashtags.
 
 ## Features
 
